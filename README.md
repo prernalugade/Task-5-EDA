@@ -1,4 +1,4 @@
-# Task-5 Exploring Data Analysis (EDA)
+# Task-5 Exploratory Data Analysis (EDA)
 
 *Tool Used:* Python (Jupyter Notebook)  
 *Dataset:* Titanic Passenger Data
